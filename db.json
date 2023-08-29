@@ -1,5 +1,10 @@
 {
-  "dprice" : {
+  "dprice" : [
+    {
     "unitprice" : "200.50"
+  },
+      {
+    "unitprice" : "200.30"
   }
+  ]
 }
